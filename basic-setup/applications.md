@@ -40,5 +40,13 @@ REST API Client with cookie management, environment variables, code generation, 
 brew cask install insomnia
 ```
 
+## Kraken
+
+Git GUI.
+
+```bash
+brew cask install kraken
+```
+
 
 

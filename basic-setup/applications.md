@@ -10,7 +10,7 @@ brew cask install google-chrome
 
 #### Skype
 
-Instant messaging app that provides online text message and video chat services. 
+Instant messaging app that provides online text message and video chat services.
 
 ```bash
 brew cask install skype

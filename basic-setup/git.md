@@ -1,6 +1,6 @@
 # Git
 
-Install git:
+#### Install git:
 
 ```bash
 brew install git
@@ -23,6 +23,4 @@ ssh-add ~/.ssh/id_rsa
 ```
 
 Add generated public key \`id\_rsa.pub\` to Github account.
-
-
 

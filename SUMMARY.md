@@ -10,4 +10,5 @@
   * [Ruby](basic-setup/ruby.md)
   * [PostgreSQL](basic-setup/postgresql.md)
   * [Command line tools](basic-setup/command-line-tools.md)
+  * [Applications](basic-setup/applications.md)
 

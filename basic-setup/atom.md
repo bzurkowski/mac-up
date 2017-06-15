@@ -1,3 +1,5 @@
+# Atom
+
 Install Atom:
 
 ```bash
@@ -17,6 +19,8 @@ Setup plugins:
 * language-docker
 * language-nginx
 * language-erlang
+
+
 
 
 

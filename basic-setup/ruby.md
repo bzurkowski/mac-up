@@ -1,3 +1,5 @@
+# Ruby
+
 Install rbenv:
 
 ```bash
@@ -19,6 +21,8 @@ gem install bundler
 echo 'bundler' >> "$(brew --prefix rbenv)/default-gems"
 echo 'gem: --no-document' >> ~/.gemrc
 ```
+
+
 
 
 

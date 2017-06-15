@@ -1,6 +1,6 @@
 # Applications
 
-#### Google Chrome
+## Google Chrome
 
 Freeware web browser developed by Google.
 
@@ -8,7 +8,7 @@ Freeware web browser developed by Google.
 brew cask install google-chrome
 ```
 
-#### Skype
+## Skype
 
 Instant messaging app that provides online text message and video chat services.
 
@@ -16,7 +16,7 @@ Instant messaging app that provides online text message and video chat services.
 brew cask install skype
 ```
 
-#### Enpass
+## Enpass
 
 Password management program to securely store passwords and other credentials.
 
@@ -24,7 +24,7 @@ Password management program to securely store passwords and other credentials.
 brew cask install enpass
 ```
 
-#### Spotify
+## Spotify
 
 Music, podcast, and video streaming service.
 
@@ -32,7 +32,7 @@ Music, podcast, and video streaming service.
 brew cask install spotify
 ```
 
-#### Insomnia
+## Insomnia
 
 REST API Client with cookie management, environment variables, code generation, and authentication.
 

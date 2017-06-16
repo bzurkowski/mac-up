@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Basic setup](basic-setup.md)
   * [Development environment](basic-setup/xcode.md)
-  * [Package management](basic-setup/homebrew.md)
+  * [Homebrew](basic-setup/homebrew.md)
   * [Terminal](basic-setup/terminal.md)
   * [Git](basic-setup/git.md)
   * [Atom](basic-setup/atom.md)

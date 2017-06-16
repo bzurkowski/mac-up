@@ -1,16 +1,16 @@
 # Atom
 
-Install Atom:
+##### Install Atom
 
 ```bash
 brew cask install atom
 ```
 
-Setup themes:
+##### Setup themes
 
 * seti-ui
 
-Setup plugins:
+##### Setup plugins
 
 * minimap
 * highlight-selected
@@ -19,8 +19,6 @@ Setup plugins:
 * language-docker
 * language-nginx
 * language-erlang
-
-
 
 
 

@@ -3,21 +3,24 @@
 ##### Install rbenv
 
 ```bash
-brew install rbenv ruby-build rbenv-default-gems
+brew install rbenv
 echo 'eval "$(rbenv init -)"' >> .zshrc
 ```
 
-##### Setup global Ruby version
+##### Install ruby-build
+
+ruby-build is an rbenv plugin that provides an rbenv install command to compile and install different versions of Ruby on UNIX-like systems.
 
 ```bash
-rbenv install 2.3.1
-rbenv global 2.3.1
+brew install ruby-build
 ```
 
-##### Setup bundler
+##### Install rbenv-default-gems
 
-```
-gem install bundler
+The plugin hooks into the rbenv install command to automatically install predefined gems every time you install a new version of Ruby.
+
+```bash
+brew install rbenv-default-gems
 ```
 
 ##### Add bundler to list of default gems installed by rbenv
@@ -32,6 +35,13 @@ echo 'bundler' >> "$(brew --prefix rbenv)/default-gems
 
 ```
 echo 'gem: --no-document' >> ~/.gemrc
+```
+
+##### Setup global Ruby version
+
+```bash
+rbenv install 2.3.1
+rbenv global 2.3.1
 ```
 
 

@@ -8,7 +8,7 @@ Homebrew is a package management system that simplifies the installation of soft
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-##### Detect potential system problems
+##### Detect potential problems after installation
 
 ```
 brew doctor
